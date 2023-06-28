@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Data-structures(more specifically graphs), and basic graph theory implementations**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
