@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data-structures(more specifically graphs), and basic graph theory implementations**
 
+- 🔮 In the near future I wish to use my gained knowledge about graphs to start designing basic neuro-networks
+
 <p align="left">
 </p>
 
