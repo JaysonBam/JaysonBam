@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayson</h1>
 <h3 align="center">1st year Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [a basic map navigation program](https://github.com/JaysonBam/Basic_Navigation_Algorithm)
+- 🔭 In my free time I’m currently working on [a basic map navigation program](https://github.com/JaysonBam/Basic_Navigation_Algorithm)
 
-- 🌱 I’m currently learning **Data-structures(more specifically graphs), and basic graph theory implementations**
+- 🌱 I’m currently learning **Data-structures(more specifically graphs), and basic graph theory implementations** , in complements with my [studies](https://github.com/JaysonBam/COS110)
 
 - 🔮 In the near future I wish to use my gained knowledge about graphs to start designing basic neuro-networks
 
