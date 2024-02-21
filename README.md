@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayson</h1>
 <h3 align="center">1st year Computer Engineering Student</h3>
 
--🔭 I'm currently studying at the University of Pretoria, pursuing my BEng(Computer).</p>
-
--🌱 In my free time, I'm learning **Data-structures (with a focus on graphs)** and implementing basic graph theory concepts in [a basic map navigation program](https://github.com/JaysonBam/Basic_Navigation_Algorithm).</p>
-
--🔮 In the near future, I aspire to leverage my knowledge of graphs to design basic neural networks.</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
