@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayson</h1>
-<h3 align="center">1st year Computer Engineering Student</h3>
+<h3 align="center">2nd year Computer Engineering Student, at the University of Pretoria</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
