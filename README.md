@@ -19,3 +19,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+### My Projects:
+
+- **[Gr12_PAT2022](https://github.com/JaysonBam/Gr12_PAT2022):** My biggest project.
+
+- **[COS110](https://github.com/JaysonBam/COS110):** My most advanced repository.
+
+- **[bronze_qiskit_master](https://github.com/JaysonBam/bronze_qiskit_master):** My most interesting repository.
+
+- **[FamilyFeud_Game](https://github.com/JaysonBam/FamilyFeud_Game):** My most fun project.
