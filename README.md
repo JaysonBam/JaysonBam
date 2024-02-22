@@ -29,3 +29,5 @@
 - **[bronze_qiskit_master](https://github.com/JaysonBam/bronze_qiskit_master):** My most interesting repository.
 
 - **[FamilyFeud_Game](https://github.com/JaysonBam/FamilyFeud_Game):** My most fun project.
+
+- **[Basic_Navigation_Algorithm](https://github.com/JaysonBam/Basic_Navigation_Algorithm):** Still in progress.
